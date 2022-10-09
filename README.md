@@ -1,4 +1,4 @@
-# BlockRoll-BCT IA2
+# BCT IA2
 # Swanand Apte - 1911125
 # Luv Arora - 2021003
 # Sarwasvi Ingoley - 2021004
