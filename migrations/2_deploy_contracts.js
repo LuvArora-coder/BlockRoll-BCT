@@ -1,4 +1,6 @@
+// eslint-disable-next-line no-undef
 var RupeeToken = artifacts.require("../src/contracts/RupeeToken.sol");
+// eslint-disable-next-line no-undef
 var freelance = artifacts.require("../src/contracts/freelance.sol");
 
 module.exports = function(deployer) {
