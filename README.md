@@ -1,4 +1,7 @@
-# BlockRoll-BCT
+# BlockRoll-BCT IA2
+# Swanand Apte - 191125
+# Luv Arora - 2021003
+# Sarwasvi Ingoley - 2021004
 
 In the project directory, you can run:
 
